@@ -1,0 +1,50 @@
+```css
+body {
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  background: #f8f9fa;
+}
+
+.login-page {
+  background: linear-gradient(135deg, #fff3cd, #dbeafe);
+  min-height: 100vh;
+}
+
+.login-wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  max-width: 420px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.sidebar {
+  font-size: 14px;
+}
+
+.dashboard-card {
+  border-radius: 18px;
+}
+
+.chart-placeholder,
+.barcode-placeholder {
+  min-height: 220px;
+  border: 2px dashed #ced4da;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+```
+
