@@ -6,7 +6,7 @@ Includes dashboard, product management, customer management, supplier management
 
 ## မြန်မာ
 ဒီ project သည် PHP + MySQL + Bootstrap အသုံးပြုထားသော Secure POS Pro Ultimate UI Version ဖြစ်ပါသည်။  
-Mini market နှင့် shop များအတွက် dashboard, product management, customer management, supplier management, stock in/out, barcode placeholder, PDF receipt placeholder တို့ပါဝင်ပါသည်။ 
+Mini market နှင့် shop များအတွက် dashboard, product management, customer management, supplier management, stock in/out, barcode placeholder, PDF receipt placeholder တို့ပါဝင်ပါသည်။
 
 ## Features
 - Secure login
